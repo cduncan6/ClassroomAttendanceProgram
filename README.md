@@ -6,6 +6,8 @@ https://www.apachefriends.org/download.html
 
 
 The zip file called ServerandWebsite contains the following files:
+
+
       1) Capstone folder. This folder contains the Classroom Attendance Program web files.
       
       
