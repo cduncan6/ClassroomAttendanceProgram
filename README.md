@@ -10,7 +10,7 @@ https://www.apachefriends.org/download.html
 The zip file called ServerandWebsite contains the following files:
 
 
-      1) ClassroomAttendanceProgram zip file. This contains the Classroom Attendance Program web files. After installing the program XAMPP, place the folder in the location C:\Xampp\htdocs\. This site is located via http://Localhost/ClassroomAttendanceProgram. 
+      1) CAP zip file. This contains the Classroom Attendance Program web files. After installing the program XAMPP, place the folder in the location C:\Xampp\htdocs\. This site is located via http://Localhost/CAP. 
       
       
       2) .htaccess file. This allows html to use PHP in its files. Must be placed in the following folder:
