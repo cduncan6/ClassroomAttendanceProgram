@@ -10,7 +10,7 @@ https://www.apachefriends.org/download.html
 The zip file called ServerandWebsite contains the following files:
 
 
-      1) ClassroomAttendanceProgram zip file. This contains the Classroom Attendance Program web files.
+      1) ClassroomAttendanceProgram zip file. This contains the Classroom Attendance Program web files. After installing the program XAMPP, place the folder in the location C:\Xampp\htdocs\. This site is located via http://Localhost/ClassroomAttendanceProgram. 
       
       
       2) .htaccess file. This allows html to use PHP in its files. Must be placed in the following folder:
@@ -23,7 +23,17 @@ The zip file called ServerandWebsite contains the following files:
       
       and TestAttendance.csv contains test data taken from the physical unit. 
       
-       4) Recreatealltables.doc, a sql file that creates all tables required for the website to function. 
+       4) Recreatealltables.doc, a sql file that creates all tables required for the website to function. To import these files, please use the following link. 
+       http://localhost/phpmyadmin/
        
        
        5) The tutorial for the website, also is on the website itself. 
+
+
+The zip file called CAPpiFiles.zip contains the following files:
+      
+      
+      1)CAPupload.py, which contains the upload to the server script. 
+      
+      
+      2)CAPmain.py, which contains the main file used by the pi to recieve swipe data. 
